@@ -1,2 +1,4 @@
 # image_classification
-image classification CNN
+image classification CNN on TensorFlow
+data source: Kaggle
+
